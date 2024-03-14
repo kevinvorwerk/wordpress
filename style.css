@@ -1,6 +1,9 @@
-.audio-player {
-    width: 100%;
+.player-wrapper {
     margin: 20px;
+}
+
+.audio-player {
+    width: 100%; 
 }
 
 .controls {
